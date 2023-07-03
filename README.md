@@ -70,7 +70,7 @@ adaf511ce1191db5673b1aa411d6765f99eb078d@172.104.133.249:26656
 You can also download nightly address book by
 
 ```bash
-curl https://network.terra.dev/addrbook.json > ~/.terra/config/addrbook.json
+curl https://raw.githubusercontent.com/classic-terra/classic-mainnet/master/columbus-5/addrbook.json > ~/.terra/config/addrbook.json
 ```
 
 ## Disclaimer
