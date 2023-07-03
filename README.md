@@ -2,18 +2,18 @@
 
 ![banner](launch-banner.png)
 
-This repository contains the configuration parameters for Columbus, Terra's official mainnet. Columbus is the first decentralized network of nodes communicating over [Terra Core](https://github.com/terra-money/core).
+This repository contains the configuration parameters for Columbus, Terra's official mainnet. Columbus is the first decentralized network of nodes communicating over [Terra Core](https://github.com/classic-terra/core).
 
-To get a backgrounder on the network genesis, please refer [here](https://github.com/terra-money/mainnet/blob/master/GENESIS.md).
+To get a backgrounder on the network genesis, please refer [here](https://github.com/classic-terra/classic-mainnet/blob/master/GENESIS.md).
 
-**[Columbus-5](https://github.com/terra-money/mainnet/tree/master/columbus-5) is the latest iteration of mainnet**.
+**[Columbus-5](https://github.com/classic-terra/classic-mainnet/tree/master/columbus-5) is the latest iteration of mainnet**.
 
 ## Terra community
 
 Community channels actively being moderated are here:
 
 - [Website](https://terra.money/)
-- [Discord](https://discord.gg/bYfyhUT)
+- [Discord](https://discord.gg/crQcSea4)
 - [Telegram](https://t.me/terra_announcements)
 - [Twitter](https://twitter.com/terra_money)
 - [YouTube](https://goo.gl/3G4T1z)
