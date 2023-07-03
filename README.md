@@ -12,11 +12,9 @@ To get a backgrounder on the network genesis, please refer [here](https://github
 
 Community channels actively being moderated are here:
 
-- [Website](https://terra.money/)
-- [Discord](https://discord.gg/crQcSea4)
-- [Telegram](https://t.me/terra_announcements)
-- [Twitter](https://twitter.com/terra_money)
-- [YouTube](https://goo.gl/3G4T1z)
+- [Website](https://terrac.money)
+- [Discord](https://discord.gg/P97BN33U)
+- [Twitter](https://twitter.com/terrac_money)
 
 We will be making announcements regarding network upgrades using these channels, so please stay tuned.
 
